@@ -1,8 +1,8 @@
 {
     "torch.location@hotmail.com": {
-        "Last check": "2023-06-06",
-        "Today's points": 500,
-        "Points": 500
+        "Last check": "2023-06-07",
+        "Today's points": 445,
+        "Points": 945
     },
-    "Elapsed time": "00:15:08"
+    "Elapsed time": "00:13:25"
 }
